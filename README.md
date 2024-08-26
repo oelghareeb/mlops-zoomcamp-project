@@ -102,9 +102,9 @@ cd mlops-zoomcamp-project
 pip install -r requirements.txt
 ```
 
-3. access the data:
+3. Make artifact directory.
 ```bash
-cd data
+mkdir artifact_dir
 ```
 
 4. Train the model:
